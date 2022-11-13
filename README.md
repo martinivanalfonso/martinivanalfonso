@@ -6,7 +6,6 @@ I'm Martin and I've been coding professionally for over 6 years.
 🪴   Current stack: React Native / ReactJS / TypeScript / Sass  <br />
 ⭐️   he/him  <br />
 <br /><br />
-
 ### Let's Connect! ☕️
 
 
